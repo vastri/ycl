@@ -5,6 +5,7 @@
 // Package token defines constants representing the lexical tokens of YCL.
 package token
 
+// Token is the set of lexical tokens of YCL.
 type Token int
 
 // The list of tokens.
